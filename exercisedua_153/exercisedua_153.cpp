@@ -83,4 +83,5 @@ int main() {
 	delete varPengarang2;
 	delete varPengarang3;
 	delete varPengarang4;
+
 }
